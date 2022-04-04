@@ -3,7 +3,7 @@ Samling af softwarefiler udarbejdet i PRJ4
 
 ## Github gennemgang :) -- Ellers spørg
 
-### Lav nyt repo og tilføj filer til remote git repo
+### Lav nyt repo i nuværende mappe og tilføj filer til git repo
 ```
 git init
 git commit -m "first commit"
@@ -19,7 +19,7 @@ git branch -M master
 git push -u origin master
 ```
 
-### Clone git repo til nuværende arbejdsmappe
+### Clone git repo til nuværende mappe
 ```
 git clone https://github.com/Olliyard/PRJ4.git
 ```
@@ -33,4 +33,4 @@ git push -u origin master
 
 ### FAQ
 - Access token??
-Settings>Developer settings>Personal access tokens>Generate new token
+- Settings>Developer settings>Personal access tokens>Generate new token

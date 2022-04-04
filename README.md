@@ -34,7 +34,3 @@ git push -u origin master
 ### FAQ
 - Access token??
 Settings>Developer settings>Personal access tokens>Generate new token
-
-Ellers push fra min konto:
-Username: Olliyard
-Password: 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

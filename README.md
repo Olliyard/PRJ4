@@ -2,7 +2,7 @@
 Samling af softwarefiler udarbejdet i PRJ4
 
 ## Github gennemgang :) -- Ellers spørg
-**HUSK ALTID AT PULL FØR DER PUSHES. SÅ UNDGÅS FEJL
+**HUSK ALTID AT PULL FØR DER PUSHES. SÅ UNDGÅS FEJL**
 
 ### Lav nyt repo i nuværende mappe og tilføj filer til git repo
 ```
